@@ -46,6 +46,11 @@ All tools listed here are **100% free**, run **in your browser**, and require **
 - [Pet Name Generator](https://findpicked.com/tools/pet-name-generator/) - AI-powered pet name ideas.
 - [AI Product Finder](https://findpicked.com/tools/product-finder/) - Personalized product recommendations.
 
+### Image & Video
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with prompt library; signup credits, no card required.
+- [TeslaWraps](https://teslawraps.design) - Free browser Tesla Paint Shop wrap editor; core editing + PNG export free, no account.
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent text/image-to-video via Grok Imagine API (not official xAI/X); free trial credits.
+
 ## Developer Tools
 
 ### Data Formatting
